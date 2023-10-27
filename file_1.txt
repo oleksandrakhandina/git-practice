@@ -1,2 +1,4 @@
 My first change
-My second change
+My other change
+My third change for git gui
+
